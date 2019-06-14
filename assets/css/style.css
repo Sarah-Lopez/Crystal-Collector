@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTesN92cuC4DKPU38NJdTOhRytVo-S4YTLUHE_S82rUQafHeg7");
+   }
+
+#title {
+    font-size: 40px;
+    color: lightyellow;
+    margin: 0 auto;
+    font-family: cursive;
+    padding: 40px;
+}
+
+.row {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.crystal-image {
+    margin-top: 25%;
+}
+
+#chalcanthite {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 0 auto;
+    padding: 10px;
+}
+#amethyst {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 0 auto;
+    padding: 10px;
+}
+#tourmaline {
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 0 auto;
+    padding: 10px;
+}
+#ruby {
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 0 auto;
+    padding: 10px;
+}
+#numberToGuess {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
+#yourTotalScore {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
+#winsLosses {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
+
+/* only using next three for JS. */
+#computerNumber {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
+#totalScore {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
+#wL {
+    background-color: rgb(100, 74, 64);
+    height: 50px;
+    margin-left: 35%;
+    padding: 20px;
+    color: lightyellow;
+    text-align: left;
+}
